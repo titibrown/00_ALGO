@@ -3,7 +3,7 @@ Reel  R
 Chaine variable_choix
 
 Debut
-	variable_choix <- "O"
+variable_choix <- "O"
 	Tant que variable_choix = "O"
 	Ecrire "Entrer le premier nombre"
 	Lire    X
@@ -13,7 +13,7 @@ Debut
 	Ecrire " La moyenne du premier nombre ",x," et du deuxième nombre", y, "est de", R 
 	Ecrire " Souhaitez-vous faire un autre calcul ? (O/N)"
 	Lire variable_choix
-	Fin tant que
-	Fin 
+      Fin tant que
+Fin 
  
 
