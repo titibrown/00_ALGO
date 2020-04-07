@@ -1,0 +1,12 @@
+Les différents types de dates
+
+Voici les différents types de dates que peut stocker MySQL :
+
+DATE : stocke une date au format AAAA-MM-JJ (Année-Mois-Jour) ;
+TIME : stocke un moment au format HH:MM:SS (Heures:Minutes:Secondes) ;
+DATETIME : stocke la combinaison d'une date et d'un moment de la journée au format AAAA-MM-JJ HH:MM:SS. Ce type de champ est donc 
+plus précis ;
+TIMESTAMP : stocke le nombre de secondes passées depuis le 1er janvier 1970 à 00 h 00 min 00 s ;
+YEAR : stocke une année, soit au format AA, soit au format AAAA.
+
+
