@@ -1,0 +1,54 @@
+* {
+    text-align: center;
+    }
+  
+  .login {
+    width: 10%;
+    border: 2px solid #ff7a00;
+    margin: auto;
+  }
+  input {
+    margin-top: 3%;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  .boutons {
+    background-color: #ff7a00;
+    border: none;
+    font-weight: bold;
+    height: 60px;
+    width: 250px;
+    margin: 50px;
+    color: white;
+    font-size: 1.1em;
+    cursor: pointer;
+  }
+  
+  .boutons[disabled="disabled"] {
+      background-color: gray;
+    cursor: initial;
+  }
+  
+  table,
+  td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+  }
+  
+  table {
+    margin: auto;
+  }
+  
+  h1 {
+    text-align: center;
+    margin: auto;
+  }
+  
+  .entete_tableau {
+    font-weight: bold;
+    text-align: center;
+  }
