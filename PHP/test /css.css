@@ -1,0 +1,47 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background-color: rgb(134, 8, 8);
+}
+
+th {
+    background-color: rgb(134, 8, 8);
+    color: yellow;
+    text-align: center;
+}
+
+td {
+    background-color: rgb(134, 8, 8);
+    color: white;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+table {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+a {
+
+    text-decoration: none;
+    color: orange;
+
+}
+
+body { 
+    
+    color:rgb(134, 8, 8) ;
+    padding: 3 px; 
+    border:3px ridge rgb(134, 8, 8);
+
+}
